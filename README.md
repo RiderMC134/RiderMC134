@@ -50,4 +50,10 @@
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC134&layout=compact&theme=dracula)
+<br>
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/RiderMC134"/>
+</a>
 
