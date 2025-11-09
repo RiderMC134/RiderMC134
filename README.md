@@ -53,6 +53,8 @@
 <br>
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img class="displayed" src="https://render.gitanimals.org/farms/RiderMC134"/>
-</a>
+<div align="center">
+
+[![GitAnimals](https://render.gitanimals.org/farms/RiderMC134)](https://github.com/devxb/gitanimals)
+
+</div>
